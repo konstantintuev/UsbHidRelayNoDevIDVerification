@@ -1,0 +1,4 @@
+/home/server/Documents/usb-relay-hid-master/commandline/build/CMakeFiles/edit_cache.dir
+/home/server/Documents/usb-relay-hid-master/commandline/build/CMakeFiles/hidusb-relay-cmd.dir
+/home/server/Documents/usb-relay-hid-master/commandline/build/CMakeFiles/rebuild_cache.dir
+/home/server/Documents/usb-relay-hid-master/commandline/build/CMakeFiles/hidusb-relay.dir

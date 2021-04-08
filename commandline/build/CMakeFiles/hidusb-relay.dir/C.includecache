@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/server/Documents/usb-relay-hid-master/commandline/hiddata.h
+
+/home/server/Documents/usb-relay-hid-master/commandline/hiddata_libusb01.c
+hiddata.h
+/home/server/Documents/usb-relay-hid-master/commandline/hiddata.h
+stdio.h
+-
+string.h
+-
+errno.h
+-
+usb.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libhidusb-relay.so -o libhidusb-relay.so CMakeFiles/hidusb-relay.dir/hiddata_libusb01.c.o -lusb 

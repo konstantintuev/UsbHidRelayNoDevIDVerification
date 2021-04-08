@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hidusb-relay-cmd.dir/usbrelay-cmd.c.o  -o hidusb-relay-cmd -rdynamic libhidusb-relay.so -lusb -Wl,-rpath,/home/server/Documents/usb-relay-hid-master/commandline/build 
